@@ -1,0 +1,48 @@
+
+///   ENABLED   ///
+ "Admin File Reader" (1.8.0.5967) by AlliedModders LLC
+ "Admin Help" (1.8.0.5967) by AlliedModders LLC
+ "Admin Menu" (1.8.0.5967) by AlliedModders LLC
+ "Anti-Flood" (1.8.0.5967) by AlliedModders LLC
+ "Basic Ban Commands" (1.8.0.5967) by AlliedModders LLC
+ "Basic Chat" (1.8.0.5967) by AlliedModders LLC
+ "Basic Comm Control" (1.8.0.5967) by AlliedModders LLC
+ "Basic Commands" (1.8.0.5967) by AlliedModders LLC
+ "Basic Info Triggers" (1.8.0.5967) by AlliedModders LLC
+ "Basic Votes" (1.8.0.5967) by AlliedModders LLC
+ "[TF2] Building Hats" (2.0) by Pelipoika
+ "Client Preferences" (1.8.0.5967) by AlliedModders LLC
+ "All Command and ConVar Lister" (1.0) by Upholder of the [BFG]
+ "Extend Map" (1.3) by MOPO3KO
+ "[TF2] Force End Round" (1.0.1) by DarthNinja
+ "Fun Commands" (1.8.0.5967) by AlliedModders LLC
+ "Disable the Intelligence" (0.2.1) by Afronanny
+ "Melee" (0.6) by linux_lover
+ "Nextmap" (1.8.0.5967) by AlliedModders LLC
+ "Player Commands" (1.8.0.5967) by AlliedModders LLC
+ "Reserved Slots" (1.8.0.5967) by AlliedModders LLC
+ "[TF2] Set Uber Charge Amount" (1.3) by Zuko
+ "sm_rsptc" (0.3) by gameguysz
+ "Sound Commands" (1.8.0.5967) by AlliedModders LLC
+ "TF2 Anti-Intel Spam" (1.0) by SleepKiller
+ "[TF2] TF2Attributes" (1.2.1) by FlaminSarge
+ "[TF2Items] Bot Weapon Randomizer" (2.2.15-20131008) by Leonardo
+ "[DEV] TF2ItemsInfo" (1.8.17.7-20131121) by Leonardo
+ "[TF2Items] Give Weapon" (3.14159) by FlaminSarge (orig by asherkin)
+ "[TF2] Intelligence Timer" (1.2) by Matthias Vance
+ "Updater" (1.2.2) by GoD-Tony
+
+
+///   DISABLED   ///
+ "SQL Admins (Prefetch)" (1.8.0.5967) by AlliedModders LLC
+ "SQL Admins (Threaded)" (1.8.0.5967) by AlliedModders LLC
+ "Fun Votes" (1.8.0.5967) by AlliedModders LLC
+ "Hide n Seek" (0.2) by Perky
+ "MapChooser" (1.8.0.5967) by AlliedModders LLC
+ "Map Nominations" (1.8.0.5967) by AlliedModders LLC
+ "RandomCycle" (1.8.0.5967) by AlliedModders LLC
+ "Rock The Vote" (1.8.0.5967) by AlliedModders LLC
+ "SentrySpawner" (0.4) by HL-SDK
+ "SQL Admin Manager" (1.8.0.5967) by AlliedModders LLC
+ "[TF2] Wrangle Multiple Sentries" (1.00) by FlaminSarge
+ "[TF2] Unlimited Buildings" (1.00) by Arkarr
